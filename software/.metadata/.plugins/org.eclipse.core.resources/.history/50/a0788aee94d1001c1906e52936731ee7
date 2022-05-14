@@ -1,0 +1,40 @@
+#include "xparameters.h"
+#include "xgpio.h"
+int main()
+{
+    XGpio dip;
+    u32   dip_check;
+    xil_printf("-- Start of the program --\r\n");
+    // Use XGpio_Initialize to initialize the DIP GPIO device
+    // You can find the GPIO 0 DEVICE ID in the xparameters.h header
+    XGpio_Initialize(&dip, XPAR_AXI_GPIO_0_DEVICE_ID);
+    // Use XGpio_SetDataDirection to set the input/output direction
+    XGpio_SetDataDirection(&dip, 1, 0xFFFFFFFF);
+    // Use XGpio_Initialize to initialize the SW GPIO device
+
+    // You can find the GPIO 1 DEVICE ID in the xparameters.h header
+
+    while (1)
+    {
+        // Use XGpio_DiscreteRead to read the status of btns
+    	dip_check= XGpio_DiscreteRead(&dip, 1);
+
+        // Use xil_printf to write the status on the screen
+    	 xil_printf("DIP Status %x\r\n", dip_check);
+    	 //EXmaple case for dip
+    	 if (dip_check ==1)
+    	 {
+    		 xil_printf("congratulation this program work you can sleep for now");
+    	 }
+    	 if (dip_check ==8)
+    	    	 {
+    	    		 xil_printf("Berhe is a stupid squawking parrot");
+    	    	 }
+
+
+
+    	 // The Zynq clock runs at 100 MHz.
+    	 for (int i =0 ; i<9999999; i++);
+
+    }
+}

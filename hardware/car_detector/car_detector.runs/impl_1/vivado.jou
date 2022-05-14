@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Wed May 11 18:13:07 2022
+# Process ID: 3032
+# Current directory: C:/520_lab/FInal_project/hardware/car_detector/car_detector.runs/impl_1
+# Command line: vivado.exe -log car_detect_wrapper.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source car_detect_wrapper.tcl -notrace
+# Log file: C:/520_lab/FInal_project/hardware/car_detector/car_detector.runs/impl_1/car_detect_wrapper.vdi
+# Journal file: C:/520_lab/FInal_project/hardware/car_detector/car_detector.runs/impl_1\vivado.jou
+# Running On: DESKTOP-0G7J0J7, OS: Windows, CPU Frequency: 1498 MHz, CPU Physical cores: 4, Host memory: 16745 MB
+#-----------------------------------------------------------
+source car_detect_wrapper.tcl -notrace

@@ -1,0 +1,45 @@
+timestamp=[2022-05-11 18:25:33], mode=WORKBENCH_START, duration=0:00:04.665, duration_ms=4665, data={}
+timestamp=[2022-05-11 18:25:34], mode=WORKBENCH_UI_INIT, duration=0:00:00.382, duration_ms=382, data={editors_count=0, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2022-05-11 18:25:34], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.037, duration_ms=37, data={}
+timestamp=[2022-05-11 18:28:51], mode=APP_CREATION, duration=0:00:20.767, duration_ms=20767, data={name=car_sensor_app, project_type=sdk, os=standalone, processor=ps7_cortexa9, runtime=cpp, platform=car_detect_wrapper, application_type=application}
+timestamp=[2022-05-11 18:31:05], mode=PLATFORM_GENERATION, duration=0:00:16.087, duration_ms=16087, data={name=car_detect_wrapper}
+timestamp=[2022-05-11 18:31:06], mode=BUILD, duration=0:00:01.079, duration_ms=1079, data={name=car_sensor_app, configuration=Debug, clean_build=false}
+timestamp=[2022-05-11 18:43:44], mode=BUILD, duration=0:00:00.932, duration_ms=932, data={name=car_sensor_app, configuration=Debug, clean_build=false}
+timestamp=[2022-05-11 18:53:20], mode=BUILD, duration=0:00:00.942, duration_ms=942, data={name=car_sensor_app, configuration=Debug, clean_build=false}
+timestamp=[2022-05-11 18:53:34], mode=BUILD, duration=0:00:00.956, duration_ms=956, data={name=car_sensor_app, configuration=Debug, clean_build=false}
+timestamp=[2022-05-11 21:59:10], mode=WORKBENCH_START, duration=0:00:09.066, duration_ms=9066, data={}
+timestamp=[2022-05-11 21:59:11], mode=WORKBENCH_UI_INIT, duration=0:00:00.756, duration_ms=756, data={editors_count=3, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,car_detect_wrapper,car_sensor_app,car_sensor_app_system}
+timestamp=[2022-05-11 21:59:11], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.046, duration_ms=46, data={}
+timestamp=[2022-05-11 22:50:03], mode=BUILD, duration=0:00:02.361, duration_ms=2361, data={name=car_sensor_app, configuration=Debug, clean_build=false}
+timestamp=[2022-05-11 23:04:24], mode=BUILD, duration=0:00:00.945, duration_ms=945, data={name=car_sensor_app, configuration=Debug, clean_build=false}
+timestamp=[2022-05-12 00:11:51], mode=WORKBENCH_START, duration=0:00:14.112, duration_ms=14112, data={}
+timestamp=[2022-05-12 00:11:52], mode=WORKBENCH_UI_INIT, duration=0:00:01.153, duration_ms=1153, data={editors_count=3, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,car_detect_wrapper,car_sensor_app,car_sensor_app_system}
+timestamp=[2022-05-12 00:11:52], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.111, duration_ms=111, data={}
+timestamp=[2022-05-12 00:33:47], mode=WORKBENCH_START, duration=0:00:15.654, duration_ms=15654, data={}
+timestamp=[2022-05-12 00:33:48], mode=WORKBENCH_UI_INIT, duration=0:00:01.400, duration_ms=1400, data={editors_count=3, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,car_detect_wrapper,car_sensor_app,car_sensor_app_system}
+timestamp=[2022-05-12 00:33:49], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.079, duration_ms=79, data={}
+timestamp=[2022-05-12 00:35:39], mode=BUILD, duration=0:00:02.500, duration_ms=2500, data={name=car_sensor_app, configuration=Debug, clean_build=false}
+timestamp=[2022-05-12 00:36:52], mode=BUILD, duration=0:00:11.062, duration_ms=11062, data={name=car_sensor_app, configuration=Debug, clean_build=false}
+timestamp=[2022-05-12 00:37:40], mode=BUILD, duration=0:00:13.160, duration_ms=13160, data={name=car_sensor_app, configuration=Debug, clean_build=false}
+timestamp=[2022-05-12 00:39:13], mode=BUILD, duration=0:00:02.102, duration_ms=2102, data={name=car_sensor_app, configuration=Debug, clean_build=false}
+timestamp=[2022-05-12 00:51:39], mode=BUILD, duration=0:00:00.934, duration_ms=934, data={name=car_sensor_app, configuration=Debug, clean_build=false}
+timestamp=[2022-05-12 00:58:30], mode=BUILD, duration=0:00:00.934, duration_ms=934, data={name=car_sensor_app, configuration=Debug, clean_build=false}
+timestamp=[2022-05-12 01:06:54], mode=BUILD, duration=0:00:00.937, duration_ms=937, data={name=car_sensor_app, configuration=Debug, clean_build=false}
+timestamp=[2022-05-12 01:07:10], mode=BUILD, duration=0:00:00.927, duration_ms=927, data={name=car_sensor_app, configuration=Debug, clean_build=false}
+timestamp=[2022-05-12 01:07:52], mode=BUILD, duration=0:00:00.319, duration_ms=319, data={name=car_sensor_app, configuration=Debug, clean_build=false}
+timestamp=[2022-05-12 09:27:49], mode=WORKBENCH_START, duration=0:00:14.824, duration_ms=14824, data={}
+timestamp=[2022-05-12 09:27:50], mode=WORKBENCH_UI_INIT, duration=0:00:01.133, duration_ms=1133, data={editors_count=3, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,car_detect_wrapper,car_sensor_app,car_sensor_app_system}
+timestamp=[2022-05-12 09:27:51], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.238, duration_ms=238, data={}
+timestamp=[2022-05-12 09:43:14], mode=BUILD, duration=0:00:04.473, duration_ms=4473, data={name=car_sensor_app, configuration=Debug, clean_build=false}
+timestamp=[2022-05-12 09:49:33], mode=BUILD, duration=0:00:01.596, duration_ms=1596, data={name=car_sensor_app, configuration=Debug, clean_build=false}
+timestamp=[2022-05-12 09:55:15], mode=BUILD, duration=0:00:01.602, duration_ms=1602, data={name=car_sensor_app, configuration=Debug, clean_build=false}
+timestamp=[2022-05-12 14:53:07], mode=WORKBENCH_START, duration=0:00:08.316, duration_ms=8316, data={}
+timestamp=[2022-05-12 14:53:08], mode=WORKBENCH_UI_INIT, duration=0:00:00.945, duration_ms=945, data={editors_count=3, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,car_detect_wrapper,car_sensor_app,car_sensor_app_system}
+timestamp=[2022-05-12 14:53:09], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.043, duration_ms=43, data={}
+timestamp=[2022-05-12 14:54:10], mode=BUILD, duration=0:00:02.350, duration_ms=2350, data={name=car_sensor_app, configuration=Debug, clean_build=false}
+timestamp=[2022-05-12 14:58:15], mode=BUILD, duration=0:00:00.951, duration_ms=951, data={name=car_sensor_app, configuration=Debug, clean_build=false}
+timestamp=[2022-05-12 15:01:43], mode=BUILD, duration=0:00:00.318, duration_ms=318, data={name=car_sensor_app, configuration=Debug, clean_build=false}
+timestamp=[2022-05-12 15:19:15], mode=BUILD, duration=0:00:00.943, duration_ms=943, data={name=car_sensor_app, configuration=Debug, clean_build=false}
+timestamp=[2022-05-12 15:21:33], mode=BUILD, duration=0:00:00.942, duration_ms=942, data={name=car_sensor_app, configuration=Debug, clean_build=false}
+timestamp=[2022-05-12 15:29:04], mode=BUILD, duration=0:00:00.884, duration_ms=884, data={name=car_sensor_app, configuration=Debug, clean_build=false}
+timestamp=[2022-05-12 15:35:21], mode=BUILD, duration=0:00:00.934, duration_ms=934, data={name=car_sensor_app, configuration=Debug, clean_build=false}
